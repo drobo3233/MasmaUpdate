@@ -1,0 +1,9 @@
+C:\a_Eclipse\MASMA-master\MASMA\bin\Debug\MASMA.exe.config
+C:\a_Eclipse\MASMA-master\MASMA\bin\Debug\MASMA.exe
+C:\a_Eclipse\MASMA-master\MASMA\bin\Debug\MASMA.pdb
+C:\a_Eclipse\MASMA-master\MASMA\bin\Debug\ActressMas.dll
+C:\a_Eclipse\MASMA-master\MASMA\obj\Debug\MASMA.csprojAssemblyReference.cache
+C:\a_Eclipse\MASMA-master\MASMA\obj\Debug\MASMA.csproj.CoreCompileInputs.cache
+C:\a_Eclipse\MASMA-master\MASMA\obj\Debug\MASMA.csproj.CopyComplete
+C:\a_Eclipse\MASMA-master\MASMA\obj\Debug\MASMA.exe
+C:\a_Eclipse\MASMA-master\MASMA\obj\Debug\MASMA.pdb
